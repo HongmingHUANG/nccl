@@ -3,7 +3,7 @@
  *
  * See LICENSE.txt for license information
  ************************************************************************/
-
+#include <cstring>
 #include "enqueue.h"
 #include "argcheck.h"
 #include "coll_net.h"
